@@ -194,10 +194,9 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
-
 <b>
-▫️ ᴄʜᴀɴɴᴇʟ : @anurinomoviez
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @anurinomovie
+▫️ ᴄʜᴀɴɴᴇʟ : https://t.me/Trigger_Movies_222_9
+▫️ ɢʀᴏᴜᴘ : https://t.me/Trigger_Movies_22_29
 </b>"""
 
     IMDB_TEMPLATE_TXT = """
@@ -206,7 +205,6 @@ Nᴀᴍᴇ - {}"""
 <b>📆 Year</b>: <a href={url}/releaseinfo>{year}</a>
 <b>🌟 Rating</b>: <a href={url}/ratings>{rating}</a>
 <b>☀️ Languages</b> : <code>{languages}</code>
-
 <b>💙Requested by💙</b> : {message.from_user.mention}"""
     
     ALL_FILTERS = """
