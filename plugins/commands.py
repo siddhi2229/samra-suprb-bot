@@ -24,8 +24,8 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('💎 Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ 💎', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('💎 ️MAIN CHANNEL 💎️', url="https://t.me/moviescrown123"),
-                    InlineKeyboardButton('💎️ GROUP 💎️', url='https://t.me/moviescrown')
+                    InlineKeyboardButton('💎 ️MAIN CHANNEL 💎️', url="https://t.me/Trigger_Movies_22_29"),
+                    InlineKeyboardButton('💎️ GROUP 💎️', url='https://t.me/Trigger_Movies_222_9')
                 ],[
                     InlineKeyboardButton('💙Hᴇʟᴘ💙', callback_data='help'),
                     InlineKeyboardButton('💙Aʙᴏᴜᴛ💙', callback_data='about'),
@@ -45,8 +45,8 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('💎 Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ 💎', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('💎 ️MAIN CHANNEL 💎️', url="https://t.me/moviescrown123"),
-                    InlineKeyboardButton('💎️ GROUP 💎️', url='https://t.me/moviescrown')
+                    InlineKeyboardButton('💎 ️MAIN CHANNEL 💎️', url="https://t.me/Trigger_Movies_22_29"),
+                    InlineKeyboardButton('💎️ GROUP 💎️', url='https://t.me/Trigger_Movies_222_9')
                 ],[
                     InlineKeyboardButton('💙Hᴇʟᴘ💙', callback_data='help'),
                     InlineKeyboardButton('💙Aʙᴏᴜᴛ💙', callback_data='about'),
@@ -67,7 +67,7 @@ async def start(client, message):
             return
         btn = [
             [
-                InlineKeyboardButton('👑️ Main Channel 👑️', url="https://t.me/moviescrown123"
+                InlineKeyboardButton('👑️ Main Channel 👑️', url="https://t.me/Trigger_Movies_222_9"
                 )
             ]
         ]
@@ -90,8 +90,8 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('💎 Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ 💎', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('💎 ️MAIN CHANNEL 💎️', url="https://t.me/moviescrown123"),
-                    InlineKeyboardButton('💎️ GROUP 💎️', url='https://t.me/moviescrown')
+                    InlineKeyboardButton('💎 ️MAIN CHANNEL 💎️', url="https://t.me/Trigger_Movies_22_29"),
+                    InlineKeyboardButton('💎️ GROUP 💎️', url='https://t.me/Trigger_Movies_222_9')
                 ],[
                     InlineKeyboardButton('💙Hᴇʟᴘ💙', callback_data='help'),
                     InlineKeyboardButton('💙Aʙᴏᴜᴛ💙', callback_data='about'),
@@ -145,7 +145,7 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton("JOIN", url="https://t.me/moviescrown123")
+                          InlineKeyboardButton("JOIN", url="https://t.me/Trigger_Movies_222_9")
                          ]
                         ]
                     )
@@ -161,7 +161,7 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton("JOIN", url="https://t.me/moviescrown123")
+                          InlineKeyboardButton("JOIN", url="https://t.me/Trigger_Movies_222_9")
                          ]
                         ]
                     )
@@ -259,7 +259,7 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                      [
-                      InlineKeyboardButton("JOIN", url="https://t.me/moviescrown123")
+                      InlineKeyboardButton("JOIN", url="https://t.me/Trigger_Movies_222_9")
                      ]
                     ]
                 )
